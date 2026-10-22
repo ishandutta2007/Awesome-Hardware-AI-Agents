@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Hardware-AI-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hardware-AI-Agents?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Hardware-AI-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hardware-AI-Agents?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Hardware-AI-Agents/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Hardware-AI-Agents?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Hardware-AI-Agents/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Hardware-AI-Agents?style=flat-square&color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Hardware-AI-Agents/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -79,9 +79,9 @@ The sector is **moderately to highly fragmented**:
 
 ## 🔓 Top Open-Source Hardware AI Projects 🛠️
 
-*The premier open-source repositories for building physical AI agents, running local MCU runtimes, and reviving commercial wearables. Sorted in **descending order by GitHub star count**.*
+*The premier open-source repositories for building physical AI agents, running local MCU runtimes, and reviving commercial wearables. Sorted in **descending order by GitHub Stars_Count**.*
 
-| Project & Repo Link 🚀 | Stars 🌟 | Target Hardware 🖥️ | Primary Capabilities 🔍 |
+| Project & Repo Link 🚀 | GitHub_Stars 🌟 | Target Hardware 🖥️ | Primary Capabilities 🔍 |
 | :--- | :--- | :--- | :--- |
 | **[OMI (OpenGlass / Friend)](https://github.com/BasedHardware/omi)** <br> `BasedHardware/omi` | [![OMI Stars](https://img.shields.io/github/stars/BasedHardware/omi?style=social&color=white)](https://github.com/BasedHardware/omi/stargazers) | Custom Wearable PCB, ESP32, iOS/Android | AI that sees your surroundings, listens to your conversations, and proactive notes/memories. Complete open hardware schematic, 3D casing, and open app. |
 | **[01 Project](https://github.com/OpenInterpreter/01)** <br> `OpenInterpreter/01` | [![01 Stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=social&color=white)](https://github.com/OpenInterpreter/01/stargazers) | ESP32, Raspberry Pi, Desktop | The #1 open-source voice interface for desktop, mobile, and ESP32 hardware. Runs an autonomous voice agent loop to control computers and edge devices locally. |
@@ -107,9 +107,9 @@ Contributions from makers, embedded engineers, and hardware AI enthusiasts are w
 2. 🌿 **Create a feature branch**: `git checkout -b add/new-hardware-agent`.
 3. 📝 **Add your entry** to either the SaaS table or Open-Source table, ensuring:
    - Factual, clear description.
-   - Verified GitHub repo link and social star badge linked to the stargazers page.
+   - Verified GitHub repo link and social Stars_Badge linked to the stargazers page.
    - Specific pricing and free tier/trial limits for SaaS products.
-   - Proper star count sorting order.
+   - Proper Stars_Count sorting order.
 4. 🚀 **Submit a Pull Request** with a brief summary of the project.
 
 ---
