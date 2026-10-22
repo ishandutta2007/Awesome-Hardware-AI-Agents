@@ -30,66 +30,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The wearable AI and hardware agent market is estimated at USD $35B‑$45B and projected to exceed USD $200B+ by the 2030s, expanding at a CAGR of 25%–35%. The sector is **moderately to highly fragmented**, characterized by big-tech platform ecosystem dominance (Apple, Meta) competing against specialized startup form factors (smart audio/lifeloggers, AI pins, and AR monocles) where software orchestration and multi-modal edge execution remain unstandardized.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Rabbit R1](https://www.rabbit.tech/)**  
-
-  Standalone AI companion device with a 2.88-inch touchscreen, rotating camera, and push-to-talk interface. Uses a "Large Action Model" (LAM) to navigate apps on the user's behalf. **Requires a subscription** for full functionality; the device depends on Rabbit's cloud servers. Community projects like Foqsee/S1-app offer phone-based open-source alternatives .
-
-
-
-- **[Humane AI Pin](https://humane.com/)**  
-
-  Screenless wearable with laser projection display and camera. **Discontinued and bricked**: HP acquired Humane in early 2025 and shut down the AI Pin's servers, leaving existing devices non-functional. The **OpenPin** project exists specifically to restore functionality via a community-run server .
-
-
-
-- **[Limitless Pendant](https://www.limitless.ai/)**  
-
-  Wearable AI pendant focused on recording and summarizing conversations. Requires a subscription and cloud connectivity. Privacy-focused positioning but cloud-dependent for processing.
-
-
-
-- **[Ray-Ban Meta](https://www.meta.com/smart-glasses/)**  
-
-  Smart glasses with built-in camera, microphone, and Meta AI integration. Allows hands-free photo/video capture, live streaming, and voice queries. Requires a Meta account and companion app; processing is cloud-based.
-
-
-
-- **[Brilliant Monocle](https://brilliant.xyz/)**  
-
-  Open-source-friendly wearable monocle with a display for AR experiences. The **Brilliant Labs** ecosystem encourages community development, with some projects like record-everything tools available on GitHub .
-
-
-
-- **[Plaud Note](https://www.plaud.ai/)**  
-
-  Credit-card-sized AI voice recorder with transcription and summarization. Syncs to phone app for AI processing. Requires the Plaud app and subscription for advanced features.
-
-
-
-- **[Apple Vision Pro](https://www.apple.com/apple-vision-pro/)**  
-
-  Spatial computing headset with high-resolution displays and hand/eye tracking. Runs visionOS with native apps and AI features. Premium pricing; primarily a general computing platform rather than a dedicated AI agent device.
-
-
-
-- **[Meta Quest 3](https://www.meta.com/quest/)**  
-
-  Mixed reality headset with passthrough cameras and hand tracking. Supports VR/AR applications and Meta AI integration. Consumer-focused with gaming and productivity use cases.
-
+| Company / Product | Valuation / Revenue | Starting Pricing Tier | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Apple Vision Pro](https://www.apple.com/apple-vision-pro/)** (Apple) | **~$3.5T Market Cap** / $391B Annual Revenue | $99/year (Apple Developer Program starting tier; hardware starts at $3,499) | Xcode SDK & visionOS simulator free forever; on-device personal testing free without App Store distribution | Spatial computing headset with high-resolution displays and eye/hand tracking, running visionOS with native apps and AI features. |
+| **[Meta Quest 3](https://www.meta.com/quest/)** (Meta Platforms) | **~$1.7T Market Cap** / $164B Annual Revenue | $7.99/month (Meta Quest+ / Horizon+ game & app catalog subscription) | 1-month free trial for standalone signups; 3 to 6-month free trial bundled with eligible headset purchases | Mixed reality headset with passthrough cameras and hand tracking, supporting VR/AR spatial apps and Meta AI integration. |
+| **[Ray-Ban Meta](https://www.meta.com/smart-glasses/)** (Meta Platforms / EssilorLuxottica) | **~$1.7T Market Cap** (Meta) / $164B Annual Revenue | $19.99/month (Meta One Premium for expanded AI audio features) | 3 hours/month free for AI Conversation Focus voice isolation; standard capture/voice queries free forever | Smart glasses with built-in camera, spatial audio, and Meta AI voice query integration. |
+| **[Plaud Note](https://www.plaud.ai/)** (Plaud / Nicebuild) | **~$1B‑$2B Valuation** / $100M ARR | $17.99/month (or $99.99/year for Plaud Pro) | 300 minutes/month free transcription & summarization resets monthly on Starter plan | Credit-card-sized AI voice recorder with transcription, speaker labeling, and AI summarization templates. |
+| **[Humane AI Pin](https://humane.com/)** (Acquired by HP) | **$116M Acquisition Price** ($850M Peak Private Valuation) | $24/month (Humane monthly service plan; discontinued post-HP buyout) | 90-day free trial initially bundled with hardware purchase before service shutdown (now requires community servers like OpenPin) | Screenless wearable pin with laser projection display and cloud multimodal AI. Acquired by HP in early 2025. |
+| **[Rabbit R1](https://www.rabbit.tech/)** (Rabbit Inc.) | **~$30M Total Funding** Raised (Venture-backed) | $0/month (No recurring subscription; $199 one-time hardware purchase) | Free forever with no token caps for core OS queries, translations, and summaries (user provides cellular SIM/data) | Standalone AI companion device with rotating camera, push-to-talk button, and cloud Large Action Model navigation. |
+| **[Brilliant Monocle](https://brilliant.xyz/)** (Brilliant Labs) | **~$6M Total Funding** Raised (Venture-backed) | $0/month introductory tier (Planned future paid tiers for high-volume API use) | Free daily usage cap for multimodal queries/translations via the Noa companion app | Open-source-friendly wearable monocle with an AR micro-OLED display and open developer APIs. |
+| **[Limitless Pendant](https://www.limitless.ai/)** (Acquired by Meta) | **~$350M Peak Valuation** (Acquired by Meta in late 2025) | $19/month (Limitless Pro subscription for power users) | 1,200 minutes (20 hours)/month free voice transcription and lifelog search on Free tier | Wearable AI pendant focused on ambient listening, meeting summaries, and conversational lifelog memory. |
 
 
 ## Open-Source GitHub Projects
